@@ -1,7 +1,7 @@
 # Site
 title:              Myeongkwon Hwang Blog
-bio:                'Minimal, one column jekyll theme.'
-description:        "Moon is a minimal, one column jekyll theme for your blog."
+bio:                '일상기록'
+description:        "공부 / 운동 / 일상"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/mkhwang.jpeg'
