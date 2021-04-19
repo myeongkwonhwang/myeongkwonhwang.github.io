@@ -5,6 +5,7 @@ description:        "공부 / 운동 / 일상"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/mkhwang.jpeg'
+logo2:               'assets/img/codeimg.png'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             ko_KR
