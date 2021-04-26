@@ -14,7 +14,7 @@ tag:
 
 ## 롬복은 어떻게 동작할까?
 
-- 컴파일 시점에 애노테이션 프로세서를 사용하여 소스코드의 [AST]([https://javaparser.org/inspecting-an-ast/](https://javaparser.org/inspecting-an-ast/))(abstract syntact tree)를 조작한다.
+- 컴파일 시점에 애노테이션 프로세서를 사용하여 소스코드의 [AST](https://javaparser.org/inspecting-an-ast/) (abstract syntact tree)를 조작한다.
 
 ![AST](../assets/img/java/annotation1.png)
 
