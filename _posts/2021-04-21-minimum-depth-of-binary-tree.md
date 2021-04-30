@@ -2,7 +2,7 @@
 layout: post 
 title:  "leetcode - minimum-depth-of-binary-tree"
 date:   2021/04/21 
-excerpt: "two-sum - minimum-depth-of-binary-tree : BFS"
+excerpt: "minimum-depth-of-binary-tree : BFS"
 comments: true 
 tag:
 - algorithm
