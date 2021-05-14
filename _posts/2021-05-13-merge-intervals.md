@@ -40,7 +40,7 @@ import java.util.LinkedList;
  * Github : https://github.com/myeongkwonhwang
  */
 public class MergeIntervals {
-    static class Solution {
+    static class Solution { 
         public int[][] merge(int[][] intervals) {
             Arrays.sort(intervals, Comparator.comparingInt(a -> a[0]));
             LinkedList<int[]> merged = new LinkedList<>();
