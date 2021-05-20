@@ -2,7 +2,7 @@
 layout: post 
 title:  "leetcode - merge-intervals"
 date:   2021/05/13 
-excerpt: "rotting-oranges : LinkedList"
+excerpt: "merge-intervals : LinkedList"
 comments: true 
 tag:
 - algorithm
