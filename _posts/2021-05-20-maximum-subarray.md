@@ -1,7 +1,7 @@
 ---
 layout: post 
 title:  "leetcode - maximum-subarray"
-date:   2021/05/20
+date:   2021/05/20 
 excerpt: "maximum-subarray"
 comments: true 
 tag:
