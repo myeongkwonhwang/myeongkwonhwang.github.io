@@ -23,7 +23,7 @@ Explanation: [4,-1,2,1] has the largest sum = 6.
 ## Example 2:
 ~~~
 Input: nums = [1]
-Output: 1
+Output: 1 
 ~~~
 
 ## Example 3:
